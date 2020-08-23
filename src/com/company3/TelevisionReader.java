@@ -1,4 +1,4 @@
-package com.company;
+package com.company3;
 
 import java.io.IOException;
 import java.nio.file.Files;
